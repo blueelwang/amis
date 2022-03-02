@@ -25,7 +25,7 @@ npm start
 # 安装依赖
 npm i 
 
-# 执行测试用例
+# 执行测试用例 g
 npm test
 
 # 查看测试用例覆盖率
